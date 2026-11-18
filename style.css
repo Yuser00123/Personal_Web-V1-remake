@@ -17,3 +17,7 @@ img{
     border: 5px solid black;
     border-radius: 15px;
 }
+
+ol{
+    font-size: 20px;
+}
