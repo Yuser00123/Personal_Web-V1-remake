@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Agrave+Pro:wght@100..700&family=Creepster&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
-    background-color: lightblue;
-    margin: 0; /* Removes default browser borders */
-    padding: 0;
+    background: linear-gradient(45deg, #7fffd4, #afe1af);
+    margin: 10px; /* Removes default browser borders */
+    padding: 20px;
+    font-family: 'Inter Tight', system-ui;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    border-radius: 15px;
 }
