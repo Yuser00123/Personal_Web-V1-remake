@@ -1,32 +1,21 @@
-# Personal_Web-V1  
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   Bobert 3D
-</head>
-<body> Hi! My name is Cal and I run the company Bobert 3D! I love 3D printing and coding! Have fun digging around!</body>
-<body style="background-color: powderblue;">
-    <h1>Hello World</h1>
-</body>
+# PERSONAL WEB V1 REMAKE
 
+This is a remake of the project [Bobert3d/Personal_Web-V1](https://github.com/Bobert3D/Personal_Web-V1). It is a personal site.
 
+![screenshot](https://cdn.hackclub.com/01a1f49e-1d2f-73e3-99b2-26f8e3c9a8c7/personal-web-v1-remake.vercel.app-2026-11-19-2152.png)
 
-<section>
-  <div>
-  <h2>
-    About Me!
-    <h3>I am a 13 year old nerd who loves dogs and his 3D printers!</h3>
-  </h2>
-</div>
-<div>
-  <h2>
-   Projects!
-    <h3>I am working on optimazing my github and adding to my website!!</h3>
-  </h2>
-</div>
-</section>
+## HOW TO USE
+Clone this repo by running 
+```
+git clone https://github.com/Yuser00123/Personal_Web-V1-remake
+```
+Then open the index.html file on a browser and also make sure that you are connected to the internet.
 
-<footer>
+## NEW FEATURES
+- Added links for github, maker world and orcid
+- Added snaps of the profiles of github, maker world and orcid
+- Added a phonk song
 
-</footer>
+## DEMO LINK
+[Click here!](https://personal-web-v1-remake.vercel.app)
+
